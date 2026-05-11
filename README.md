@@ -1,6 +1,4 @@
-Here is the revised version with **selective bolding** to improve readability while keeping a formal, non-stylized tone.
-
----
+Academic Report available in directory: Lady Macbeth: Unsex Me Here: Language, Power, and the Making of Lady Macbeth
 
 # README — Lady Macbeth and Linguistic Power
 
